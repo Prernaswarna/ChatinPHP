@@ -8,7 +8,7 @@ I wanted to try to replicate a chat application and it was a wonderful way to im
 
 ## Features
 
--Users can sign up using their Email ID.
--Users can add or edit their profile anytime.
--Users can login and view list of all other users.
--Users can chat with other users real time. 
+- Users can sign up using their Email ID.
+- Users can add or edit their profile anytime.
+- Users can login and view list of all other users.
+- Users can chat with other users real time. 
